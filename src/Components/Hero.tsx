@@ -33,7 +33,7 @@ export default function Hero() {
 
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <Image className="rounded-3xl md:-mt-[15%] items-center" src="/images/IMG-2024.jpg" alt="hero"
+            <Image className="rounded-3xl object-contain object-center" src="/images/IMG-2024.jpg" alt="hero"
               width={300}
               height={100}
             />
