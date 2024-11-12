@@ -6,7 +6,7 @@ export default function Navbar(){
     <div className="bg-slate-700 lg:w-full md:w-full ">
       <header className="text-gray-400 body-font lg:w-full md:w-full lg:h-16">
         
-        <div className="container mx-full flex flex-wrap p-1 flex-col md:flex-row items-center">
+        <div className="container mx-full flex flex-wrap p-1 flex-col items-center">
          <Image className="md:ml-5"
          src="/images/S.gif" alt="logo"
          width={55}
