@@ -25,14 +25,14 @@ export default function Hero() {
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-slate-300 md:ml-14 text-center">I am </h1>
 
             <div data-aos="zoom-in-right">
-            <h1 className="hidden lg:inline-block text-4xl font-bold font-serif text-purple-950">SABREENA DANIYAL!</h1>
+            <h1 className="hidden text-4xl font-bold font-serif text-purple-950">SABREENA DANIYAL!</h1>
             </div>
 
             <p className="mb-0 leading-relaxed text-slate-800 text-3xl ml-[8%]">Fashion Designer..</p>
             <p className="mb-8 leading-relaxed text-slate-300 text-sm ml-[8%]">de-designer Couture Villas..</p>
 
           </div>
-          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <div className="lg:max-w-lg md:w-1/2 w-5/6">
             <Image className="rounded-3xl object-contain object-center" src="/images/IMG-2024.jpg" alt="hero"
               width={200}
               height={100}
