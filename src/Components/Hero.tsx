@@ -21,7 +21,7 @@ export default function Hero() {
     <div>
       <section className="text-gray-600 body-font">
         <div className="container mx-full lg:flex lg:flex-row px-5 py-24 md:flex-row flex-col items-center">
-          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <div className="lg:flex-grow md:w-1/2 lg:pr-24 lg:flex lg:flex-row md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-slate-300 md:ml-14 text-center">I am </h1>
 
             <div data-aos="zoom-in-right">
