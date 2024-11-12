@@ -3,13 +3,13 @@ import Link from "next/link";
 
 export default function Navbar(){
   return(
-    <div>
-      <header className="text-gray-400 body-font">
+    <div className="bg-slate-700">
+      <header className="text-gray-400 body-font w-full h-20">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
 
          <Image className="md:ml-3"
          src="/images/S.gif" alt="logo"
-         width={90}
+         width={50}
          height={50} />
          
          <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
