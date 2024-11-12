@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Navbar(){
   return(
     <div className="bg-slate-700 lg:w-full md:w-full ">
-      <header className="text-gray-400 body-font lg:w-full md:flex flex-col md:w-full lg:h-16">
+      <header className="text-gray-400 body-font lg:w-full md:w-full lg:h-16">
         
         <div className="container mx-full flex flex-wrap p-1 flex-col md:flex-row items-center">
          <Image className="md:ml-5"
